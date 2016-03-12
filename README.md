@@ -39,8 +39,12 @@ The project can be run by using
 $ mvn spring-boot:run
 ```
 
-## Experimenting
+## Experimenting/Swagger
 
 The project is integrated with SwaggerUI which allows for exploring, learning, and testing the API.  Once the application is running, simply navigate to - http://localhost:8080/swagger-ui.html
+
+### Aplogogies
+
+At this stage, the project does not write any logs :(
 
 
